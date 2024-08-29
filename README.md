@@ -1,5 +1,7 @@
 ## hello ^_^
-![](link)
+![](<!--meu nome e Sol Ariane
+sou uma estudante na Alura
+EStou desenvolvendo uma linguagem JavaScript)
 <!--meu nome e Sol Ariane
 sou uma estudante na Alura
 EStou desenvolvendo uma linguagem JavaScript
